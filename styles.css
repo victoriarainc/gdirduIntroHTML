@@ -1,3 +1,23 @@
 body {
-  background-color: beige;
+  background-color: #F0E9D6;
+  color: #985573;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  color: #453544;
+  font-family: 'Homemade Apple', cursive;
+}
+
+link {
+  text-decoration: none;
+  color: white;
+}
+
+div {
+  padding: 2em;
+}
+
+p {
+  background-color: #F4D6C7
 }

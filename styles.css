@@ -1,12 +1,16 @@
 body {
-  background-color: #F0E9D6;
+  background-color: #EFE4E9;
   color: #985573;
   font-family: sans-serif;
 }
 
 h1, h2 {
-  color: #453544;
+  color: #3A5551;
   font-family: 'Homemade Apple', cursive;
+}
+
+a {
+  text-decoration: none;
 }
 
 link {
@@ -19,5 +23,31 @@ div {
 }
 
 p {
-  background-color: #F4D6C7
+  background-color: #F4D6C7;
+}
+
+.body-p {
+  background-color: white;
+  border-radius: 20px;
+}
+
+span {
+  background-color: #D6C4C8;
+}
+
+/*FOOTER*/
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: #3A5551
+}
+
+a:active {
+  color: #985573;
 }

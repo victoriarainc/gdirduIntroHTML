@@ -4,6 +4,12 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+    position: absolute;
+    top: 20px;
+    left: 460px;
+}
+
 h1, h2 {
   color: #3A5551;
   font-family: 'Homemade Apple', cursive;
